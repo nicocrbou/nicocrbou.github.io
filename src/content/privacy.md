@@ -9,7 +9,7 @@ verifiedAt: 2026-09-11
 
 ## This website
 
-KIWI-biolab.org is a static information website about the KIWI Biolab and the original KIWI-biolab Future Lab project. For enquiries about the website, contact the department office at **office[at]bioprocess.tu-berlin.de**.
+KIWI-biolab.org is a static information website about the KIWI Biolab and the original KIWI-biolab Future Lab project. For enquiries about the website, contact **{{ site.email }}**.
 
 ## Hosting
 
