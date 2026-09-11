@@ -1,0 +1,44 @@
+{% from "icons.njk" import external %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} · {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.hero }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="{{ site.logo }}" type="image/png">
+  <link rel="preload" href="/assets/fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/site.css">
+  <script src="/assets/site.js" defer></script>
+</head>
+<body class="{% if page.url == '/' %}home{% else %}interior{% endif %}">
+  <a class="skip-link" href="#content">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="/" aria-label="KIWI-biolab home"><img src="{{ site.logo }}" alt="KIWI biolab" width="145" height="75" fetchpriority="high"></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" hidden><span>Menu</span><svg viewBox="0 0 24 24" width="24" height="24" fill="none" aria-hidden="true"><path d="M4 8h16M4 16h16" stroke="currentColor" stroke-width="1.5"/></svg></button>
+      <nav class="primary-nav" id="primary-navigation" aria-label="Main navigation">
+        {% for item in site.navigation %}<a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>{% endfor %}
+      </nav>
+    </div>
+  </header>
+  <main id="content" tabindex="-1">{% for anchor in legacyAnchors[page.url] %}<span id="{{ anchor }}" class="legacy-anchor"></span>{% endfor %}{{ content | safe }}</main>
+  <footer class="site-footer">
+    <div class="shell">
+      <div class="footer-top"><p>KIWI-biolab · TU Berlin</p><a class="text-link" href="/contact/">Get in touch {{ external() }}</a></div>
+      <p class="footer-caption">Founding institutions and original project funding</p>
+      <div class="institution-row">{% for institution in site.institutions %}<a href="{{ institution.url }}" aria-label="{{ institution.name }}"><img src="{{ institution.image }}" alt="{{ institution.name }}" width="160" height="75"></a>{% endfor %}</div>
+      <div class="footer-bottom"><span>© {{ site.year }} KIWI-biolab</span><div><a href="{{ site.linkedin }}">LinkedIn</a><a href="/sources/">Sources &amp; image credits</a><a href="/privacy-policy/">Privacy Policy</a></div></div>
+    </div>
+  </footer>
+</body>
+</html>

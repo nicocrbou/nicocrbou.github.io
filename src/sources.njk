@@ -1,0 +1,7 @@
+---
+layout: page.njk
+title: Sources & image credits
+intro: The institutional sources and original assets behind this website.
+permalink: /sources/
+---
+<div class="prose narrow"><p>Content checked on 11 September 2026. Historical records retain their original dates. Photographs and institutional marks come from the original KIWI-biolab website or the cited institutional websites. The green KIWI-biolab logo was supplied by the site owner. No generated imagery is used.</p><h2>Content sources</h2>{% for reference in sources.references %}<h3><a href="{{ reference.url }}">{{ reference.title }}</a></h3><p>{{ reference.use }}</p>{% endfor %}<h2>Editorial notes</h2><ul>{% for decision in sources.decisions %}<li>{{ decision }}</li>{% endfor %}</ul><h2>Image credits</h2><p>Institutional marks belong to their respective institutions. Archive assets without a named photographer are identified as such, without assigning a new copyright owner.</p><ul class="credits-list">{% for asset in assetCredits %}{% if asset.available != false %}<li class="credit-item"><img src="{{ asset.url }}" alt="Source image preview" width="90" height="70" loading="lazy"><div>{{ asset.credit }}<br><a href="{% if 'kiwi-biolab.de' in asset.sourceUrl %}https://web.archive.org/web/20260114173916im_/{% endif %}{{ asset.sourceUrl }}">View original source</a></div></li>{% endif %}{% endfor %}</ul></div>

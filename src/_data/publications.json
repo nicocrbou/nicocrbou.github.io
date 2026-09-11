@@ -1,0 +1,434 @@
+[
+  {
+    "id": "publication-1",
+    "type": "Journal articles",
+    "year": "2023",
+    "citation": "<p>Niels Krausch, Lucas Kaspersetz,  Rogelio Diego Gaytán-Castro, Marie-Therese Schermeyer, Alvaro R. Lara,  Guillermo Gosset, M Nicolas Cruz Bournazou, Peter Neubauer (2023). <strong>Model-Based Characterization of E. coli Strains with Impaired Glucose Uptake</strong>. Bioengineering, 10 (7), 808. <a href=\"https://doi.org/10.3390/bioengineering10070808\">doi.org/10.3390/bioengineering10070808</a></p>",
+    "searchText": "Niels Krausch, Lucas Kaspersetz, Rogelio Diego Gaytán-Castro, Marie-Therese Schermeyer, Alvaro R. Lara, Guillermo Gosset, M Nicolas Cruz Bournazou, Peter Neubauer (2023). Model-Based Characterization of E. coli Strains with Impaired Glucose Uptake . Bioengineering, 10 (7), 808. doi.org/10.3390/bioengineering10070808",
+    "doi": "10.3390/bioengineering10070808",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-2",
+    "type": "Journal articles",
+    "year": "2023",
+    "citation": "<p>Annina Kemmer, Linda Cai, Stefan Born, M Nicolas Cruz Bournazou, Peter Neubauer (2023). <strong>Modeling of enzyme-mediated glucose release to facilitate continuous feed in miniaturized cultivations.</strong>  bioRxiv, <a href=\"https://doi.org/10.1101/2023.05.14.540734\">https://doi.org/10.1101/2023.05.14.540734</a></p>",
+    "searchText": "Annina Kemmer, Linda Cai, Stefan Born, M Nicolas Cruz Bournazou, Peter Neubauer (2023). Modeling of enzyme-mediated glucose release to facilitate continuous feed in miniaturized cultivations. bioRxiv, https://doi.org/10.1101/2023.05.14.540734",
+    "doi": "10.1101/2023.05.14.540734",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-3",
+    "type": "Journal articles",
+    "year": "2023",
+    "citation": "<p>Annina Kemmer, Nico Fischer, Terrance Wilms, Linda Cai, Sebastian Groß, Rudibert King, Peter Neubauer, M. Nicolas Cruz Bournazou (2023). <strong>Nonlinear state estimation as tool for online monitoring and adaptive feed in high-throughput cultivations.</strong> Biotechnology &amp; Bioengineering. Submitted. <a href=\"http://dx.doi.org/10.22541/au.166005030.05586352/v1\">10.22541/au.166005030.05586352/v1</a></p>",
+    "searchText": "Annina Kemmer, Nico Fischer, Terrance Wilms, Linda Cai, Sebastian Groß, Rudibert King, Peter Neubauer, M. Nicolas Cruz Bournazou (2023). Nonlinear state estimation as tool for online monitoring and adaptive feed in high-throughput cultivations. Biotechnology & Bioengineering. Submitted. 10.22541/au.166005030.05586352/v1",
+    "doi": "10.22541/au.166005030.05586352/v1",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-4",
+    "type": "Journal articles",
+    "year": "2023",
+    "citation": "<p>Nghia Duong-Trung, Stefan Born, Jong Woo Kim, Marie-Therese Schermeyer, Katharina Paulick, Maxim Borisyak, Mariano Nicolas Cruz-Bournazou, Thorben Werner, Randolf Scholz, Lars Schmidt-Thieme, Peter Neubauer, Ernesto Martinez (2023). <strong>When Bioprocess Engineering Meets Machine Learning: A Survey from the Perspective of Automated Bioprocess Development.</strong> Biochemical Engineering Journal 2023, Volume 190, 108764, <a href=\"https://doi.org/10.1016/j.bej.2022.108764\">https://doi.org/10.1016/j.bej.2022.108764</a>.</p>",
+    "searchText": "Nghia Duong-Trung, Stefan Born, Jong Woo Kim, Marie-Therese Schermeyer, Katharina Paulick, Maxim Borisyak, Mariano Nicolas Cruz-Bournazou, Thorben Werner, Randolf Scholz, Lars Schmidt-Thieme, Peter Neubauer, Ernesto Martinez (2023). When Bioprocess Engineering Meets Machine Learning: A Survey from the Perspective of Automated Bioprocess Development. Biochemical Engineering Journal 2023, Volume 190, 108764, https://doi.org/10.1016/j.bej.2022.108764 .",
+    "doi": "10.1016/j.bej.2022.108764",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-5",
+    "type": "Journal articles",
+    "year": "2023",
+    "citation": "<p>Isabel Thiele, Heba Yehia, Niels Krausch, Mario Birkholz, Mariano Nicolas Cruz Bournazou, Azis Boing Sitanggang, Matthias Kraume, Peter Neubauer and Anke Kurreck (2023). <strong>Production of Modified Nucleosides in a Continuous Enzyme Membrane Reactor</strong>. Int. J. Mol. Sci. 2023, Volume 24, Issue 7. <a href=\"https://doi.org/10.3390/ijms24076081\">https://doi.org/10.3390/ijms24076081</a></p>",
+    "searchText": "Isabel Thiele, Heba Yehia, Niels Krausch, Mario Birkholz, Mariano Nicolas Cruz Bournazou, Azis Boing Sitanggang, Matthias Kraume, Peter Neubauer and Anke Kurreck (2023). Production of Modified Nucleosides in a Continuous Enzyme Membrane Reactor . Int. J. Mol. Sci. 2023, Volume 24, Issue 7. https://doi.org/10.3390/ijms24076081",
+    "doi": "10.3390/ijms24076081",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-12",
+    "type": "Journal articles",
+    "year": "2023",
+    "citation": "<p>Jong Woo Kim, Niels Krausch, Judit Aizpuru, Tilman Barz, Sergio Lucia, Peter Neubauer, Mariano Nicolas Cruz Bournazou (2023). <strong>Model predictive control and moving horizon estimation for adaptive optimal bolus feeding in high-throughput cultivation of E. coli. </strong>Computers &amp; Chemical Engineering 172: 108158. Elsevier, <a href=\"https://doi.org/10.1016/j.compchemeng.2023.108158\">https://doi.org/10.1016/j.compchemeng.2023.108158</a><a href=\"https://doi.org/10.1016/j.compchemeng.2023.108158\">.</a> </p>",
+    "searchText": "Jong Woo Kim, Niels Krausch, Judit Aizpuru, Tilman Barz, Sergio Lucia, Peter Neubauer, Mariano Nicolas Cruz Bournazou (2023). Model predictive control and moving horizon estimation for adaptive optimal bolus feeding in high-throughput cultivation of E. coli. Computers & Chemical Engineering 172: 108158. Elsevier, https://doi.org/10.1016/j.compchemeng.2023.108158 .",
+    "doi": "10.1016/j.compchemeng.2023.108158",
+    "source": "https://www.zotero.org/groups/2753756/htbd/items/8MXJ7NR3",
+    "verifiedAt": "2026-09-11",
+    "archivedCitation": "<p>Jong Woo Kim, Niels Krausch, Judit Aizpuru, Tilman Barz, Sergio Lucia, Peter Neubauer, Mariano Nicolas Cruz Bournazou (2022). <strong>Model predictive control and moving horizon estimation for adaptive optimal bolus feeding in high-throughput cultivation of E. coli. </strong>Computers &amp; Chemical Engineering 172: 108158. Elsevier, <a href=\"https://doi.org/10.1016/j.compchemeng.2023.108158\">https://doi.org/10.1016/j.compchemeng.2023.108158</a><a href=\"https://doi.org/10.1016/j.compchemeng.2023.108158\">.</a> </p>"
+  },
+  {
+    "id": "publication-22",
+    "type": "Book chapters",
+    "year": "2023",
+    "citation": "<p>Annina Kemmer, Linda Cai, M. Nicolas Cruz Bournazou, Peter Neubauer. <strong>High-throughput expression of inclusion bodies on an automated platform.</strong> Part of the Methods in Molecular Biology book series (MIMB,volume 2617). <a href=\"https://link.springer.com/protocol/10.1007/978-1-0716-2930-7_3#chapter-info\">First Online: 20 January 2023</a>. <a href=\"https://link.springer.com/protocol/10.1007/978-1-0716-2930-7_3#chapter-info\">https://link.springer.com/protocol/10.1007/978-1-0716-2930-7_3#chapter-info</a>.</p>",
+    "searchText": "Annina Kemmer, Linda Cai, M. Nicolas Cruz Bournazou, Peter Neubauer. High-throughput expression of inclusion bodies on an automated platform. Part of the Methods in Molecular Biology book series (MIMB,volume 2617). First Online: 20 January 2023 . https://link.springer.com/protocol/10.1007/978-1-0716-2930-7_3#chapter-info .",
+    "doi": "10.1007/978-1-0716-2930-7_3#chapter-info",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-43",
+    "type": "Journal articles",
+    "year": "2023",
+    "citation": "<p>Riccardo De Luca, Goncalo Costa, Harini Narayanan, Claus Wirnsperger, Mariano N. Cruz Bournazou, Alessandro Butte, Moritz von Stosch (2023). Comparison of strategies for iterative model-based upstream bioprocess development with single and parallel reactor set-ups. Biochemical Engineering Journal. <a href=\"https://doi.org/10.1016/j.bej.2023.108813\">10.1016/j.bej.2023.108813</a></p>",
+    "searchText": "Riccardo De Luca, Goncalo Costa, Harini Narayanan, Claus Wirnsperger, Mariano N. Cruz Bournazou, Alessandro Butte, Moritz von Stosch (2023). Comparison of strategies for iterative model-based upstream bioprocess development with single and parallel reactor set-ups. Biochemical Engineering Journal. ",
+    "doi": "10.1016/j.bej.2023.108813",
+    "source": "https://www.zotero.org/groups/2753756/htbd/items/XQE3C7EP",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-6",
+    "type": "Journal articles",
+    "year": "2022",
+    "citation": "<p>Niels Krausch, Jong Woo Kim, Tilman Barz, Sergio Lucia, Sebastian Groß, Matthias Huber, Stefan Schiller, Peter Neubauer, Mariano Cruz Bournazou (2022). <strong>High-throughput screening of optimal process conditions using model predictive control. </strong>Biotechnology and Bioengineering 2022, Volume 119, Issue 12 p. 3584-3595, <a href=\"https://doi.org/10.1002/bit.28236\">https://doi.org/10.1002/bit.28236</a>.</p>",
+    "searchText": "Niels Krausch, Jong Woo Kim, Tilman Barz, Sergio Lucia, Sebastian Groß, Matthias Huber, Stefan Schiller, Peter Neubauer, Mariano Cruz Bournazou (2022). High-throughput screening of optimal process conditions using model predictive control. Biotechnology and Bioengineering 2022, Volume 119, Issue 12 p. 3584-3595, https://doi.org/10.1002/bit.28236 .",
+    "doi": "10.1002/bit.28236",
+    "source": "https://www.zotero.org/groups/2753756/htbd/items/2FEBRZ8V",
+    "verifiedAt": "2026-09-11",
+    "archivedCitation": "<p>Niels Krausch, Jong Woo Kim, Tilman Barz, Sergio Lucia, Sebastian Groß, Matthias Huber, Stefan Schiller, Peter Neubauer, Mariano Cruz Bournazou (2023). <strong>High-throughput screening of optimal process conditions using model predictive control. </strong>Biotechnology and Bioengineering 2022, Volume 119, Issue 12 p. 3584-3595, <a href=\"https://doi.org/10.1002/bit.28236\">https://doi.org/10.1002/bit.28236</a>.</p>"
+  },
+  {
+    "id": "publication-7",
+    "type": "Journal articles",
+    "year": "2022",
+    "citation": "<p>Lucas Kaspersetz, Saskia Waldburger, M.-Therese Schermeyer, Sebastian L. Riedel, Sebastian Groß, Peter Neubauer, M.-Nicolas Cruz-Bournazou (2022). <strong>Automated bioprocess feedback operation in a high throughput facility via the integration of a mobile robotic lab assistant</strong>. Front. Chem. Eng., 07 April 2022, <a href=\"https://doi.org/10.3389/fceng.2022.812140\">https://doi.org/10.3389/fceng.2022.812140</a>.</p>",
+    "searchText": "Lucas Kaspersetz, Saskia Waldburger, M.-Therese Schermeyer, Sebastian L. Riedel, Sebastian Groß, Peter Neubauer, M.-Nicolas Cruz-Bournazou (2022). Automated bioprocess feedback operation in a high throughput facility via the integration of a mobile robotic lab assistant . Front. Chem. Eng., 07 April 2022, https://doi.org/10.3389/fceng.2022.812140 .",
+    "doi": "10.3389/fceng.2022.812140",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-8",
+    "type": "Journal articles",
+    "year": "2022",
+    "citation": "<p>Katharina Paulick, Simon Seidel, Christoph Lange, Annina Kemmer, Mariano Nicolas Cruz Bournazou, André Baier, Daniel Haehn (2022). <strong>Promoting Sustainability through Next-Generation Biologics Drug Development.</strong> MDPI Sustainability 2022, 14(8), 4401, <a href=\"https://doi.org/10.3390/su14084401\">https://doi.org/10.3390/su14084401</a>.</p>",
+    "searchText": "Katharina Paulick, Simon Seidel, Christoph Lange, Annina Kemmer, Mariano Nicolas Cruz Bournazou, André Baier, Daniel Haehn (2022). Promoting Sustainability through Next-Generation Biologics Drug Development. MDPI Sustainability 2022, 14(8), 4401, https://doi.org/10.3390/su14084401 .",
+    "doi": "10.3390/su14084401",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-9",
+    "type": "Journal articles",
+    "year": "2022",
+    "citation": "<p>Yeonsoo Kim, Jong Woo Kim (2022). <strong>Safe model-based reinforcement learning for nonlinear optimal control with state and input constraints</strong>. AIChE Journal, e17601, <a href=\"https://doi.org/10.1002/aic.17601\">https://doi.org/10.1002/aic.17601</a>.</p>",
+    "searchText": "Yeonsoo Kim, Jong Woo Kim (2022). Safe model-based reinforcement learning for nonlinear optimal control with state and input constraints . AIChE Journal, e17601, https://doi.org/10.1002/aic.17601 .",
+    "doi": "10.1002/aic.17601",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-10",
+    "type": "Journal articles",
+    "year": "2022",
+    "citation": "<p>Tae Hoon Oh, Hyun Min Park, Jong Woo Kim, Jong Min Lee (2022). <strong>Integration of Reinforcement Learning and Model Predictive Control to Optimize Semi-batch Bioreactor</strong>. AIChE Journal, Volume 68, Issue 5, e17658, <a href=\"https://doi.org/10.1002/aic.17658\">https://doi.org/10.1002/aic.17658</a>.</p>",
+    "searchText": "Tae Hoon Oh, Hyun Min Park, Jong Woo Kim, Jong Min Lee (2022). Integration of Reinforcement Learning and Model Predictive Control to Optimize Semi-batch Bioreactor . AIChE Journal, Volume 68, Issue 5, e17658, https://doi.org/10.1002/aic.17658 .",
+    "doi": "10.1002/aic.17658",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-11",
+    "type": "Journal articles",
+    "year": "2022",
+    "citation": "<p>Hai Trieu Le, Tran Thanh Lam Nguyen, Tuan Anh Nguyen, Xuan Son Ha, Nghia Duong-Trung (2022). <strong>BloodChain: A Blood Donation Network Managed by Blockchain Technologies.</strong> MDPI Network 2022, 2(1), 21-35, <a href=\"https://doi.org/10.3390/network2010002\">https://doi.org/10.3390/network2010002</a>. </p>",
+    "searchText": "Hai Trieu Le, Tran Thanh Lam Nguyen, Tuan Anh Nguyen, Xuan Son Ha, Nghia Duong-Trung (2022). BloodChain: A Blood Donation Network Managed by Blockchain Technologies. MDPI Network 2022, 2(1), 21-35, https://doi.org/10.3390/network2010002 .",
+    "doi": "10.3390/network2010002",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-23",
+    "type": "Book chapters",
+    "year": "2022",
+    "citation": "<p>Tilman Barz, Julia Kager, Christoph Herwig, Peter Neubauer, Mariano Nicolas Cruz-Bournazou, Federico Galvanin (2022). Chapter 11 – <strong>Characterization of reactions and growth in automated continuous flow and bioreactor platformsFrom linear DoE to model-based approaches</strong>. Book title: Simulation and Optimization in Process Engineering – The Benefit of Mathematical Methods in Applications of the Chemical Industry. Elsevier 2022, <a href=\"https://www.sciencedirect.com/book/9780323850438/simulation-and-optimization-in-process-engineering#book-info\">https://www.sciencedirect.com/book/9780323850438/simulation-and-optimization-in-process-engineering#book-info</a>. </p>",
+    "searchText": "Tilman Barz, Julia Kager, Christoph Herwig, Peter Neubauer, Mariano Nicolas Cruz-Bournazou, Federico Galvanin (2022). Chapter 11 – Characterization of reactions and growth in automated continuous flow and bioreactor platformsFrom linear DoE to model-based approaches . Book title: Simulation and Optimization in Process Engineering – The Benefit of Mathematical Methods in Applications of the Chemical Industry. Elsevier 2022, https://www.sciencedirect.com/book/9780323850438/simulation-and-optimization-in-process-engineering#book-info .",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-24",
+    "type": "Book chapters",
+    "year": "2022",
+    "citation": "<p>Harini Narayanan, Moritz von Stosch, Martin Luna, Mariano Nicolas Cruz-Bournazou, Alessandro Buttè, Michael Sokolov (2022). Chapter 8: <strong>Consistent Value Creation from Bioprocess Data with Customized Algorithms: Opportunities Beyond Multivariate Analysis</strong>. Book title: Process Control, Intensification, and Digitalisation in Continuous Biomanufacturing. Wiley-VCH 2022. <a href=\"https://onlinelibrary.wiley.com/doi/book/10.1002/9783527827343\">https://onlinelibrary.wiley.com/doi/book/10.1002/9783527827343</a>.</p>",
+    "searchText": "Harini Narayanan, Moritz von Stosch, Martin Luna, Mariano Nicolas Cruz-Bournazou, Alessandro Buttè, Michael Sokolov (2022). Chapter 8: Consistent Value Creation from Bioprocess Data with Customized Algorithms: Opportunities Beyond Multivariate Analysis . Book title: Process Control, Intensification, and Digitalisation in Continuous Biomanufacturing. Wiley-VCH 2022. https://onlinelibrary.wiley.com/doi/book/10.1002/9783527827343 .",
+    "doi": "10.1002/9783527827343",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-25",
+    "type": "Book chapters",
+    "year": "2022",
+    "citation": "<p>Simon Seidel, Mariano Nicolas Cruz-Bournazou, SebastianGroß, Julia Schollmeyer, Katharina Paulick, Anke Kurreck, Stefan Krauss, Peter Neubauer (2022). Chapter 3: <strong>A comprehensive IT Infrastructure for an enzymatic product development in a digitized and digitalized biotechnological laboratory.</strong> Book title: Smart Biolabs of the Future. Springer 2022. <a href=\"https://link.springer.com/book/10.1007/978-3-031-12582-9\">https://link.springer.com/book/10.1007/978-3-031-12582-9</a>.</p>",
+    "searchText": "Simon Seidel, Mariano Nicolas Cruz-Bournazou, SebastianGroß, Julia Schollmeyer, Katharina Paulick, Anke Kurreck, Stefan Krauss, Peter Neubauer (2022). Chapter 3: A comprehensive IT Infrastructure for an enzymatic product development in a digitized and digitalized biotechnological laboratory. Book title: Smart Biolabs of the Future. Springer 2022. https://link.springer.com/book/10.1007/978-3-031-12582-9 .",
+    "doi": "10.1007/978-3-031-12582-9",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-26",
+    "type": "Conferences",
+    "year": "2022",
+    "citation": "<p>Judit Aizpuru, Annina Karolin Kemmer, Jong Woo Kim, Stefan Born, Peter Neubauer, Mariano Nicolas Cruz-Bournazou, Tilman Barz (2022). <strong>Fitting nonlinear models to continuous oxygen data with oscillatory signal variations via a loss based on Dynamic Time Warping.</strong> 13th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems, DYCOPS 2022 Busan, Republic of Korea, 14-17 June 2022. IFAC-PapersOnLine, 55, Elsevier 2022.</p>",
+    "searchText": "Judit Aizpuru, Annina Karolin Kemmer, Jong Woo Kim, Stefan Born, Peter Neubauer, Mariano Nicolas Cruz-Bournazou, Tilman Barz (2022). Fitting nonlinear models to continuous oxygen data with oscillatory signal variations via a loss based on Dynamic Time Warping. 13th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems, DYCOPS 2022 Busan, Republic of Korea, 14-17 June 2022. IFAC-PapersOnLine, 55, Elsevier 2022.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-27",
+    "type": "Conferences",
+    "year": "2022",
+    "citation": "<p>Mariano Nicolas Cruz-Bournazou, Harini Narayanan, Alessandro Fagnani, Alessandro Butté (2022). <strong>Hybrid Gaussian Process Models for continuous time series in bolus fed-batch cultures. </strong>13th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems, DYCOPS 2022 Busan, Republic of Korea, 14-17 June 2022. IFAC-PapersOnLine, 55, Elsevier 2022.</p>",
+    "searchText": "Mariano Nicolas Cruz-Bournazou, Harini Narayanan, Alessandro Fagnani, Alessandro Butté (2022). Hybrid Gaussian Process Models for continuous time series in bolus fed-batch cultures. 13th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems, DYCOPS 2022 Busan, Republic of Korea, 14-17 June 2022. IFAC-PapersOnLine, 55, Elsevier 2022.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-28",
+    "type": "Conferences",
+    "year": "2022",
+    "citation": "<p>Jong Woo Kim, Niels Krausch, Judit Aizpuru, Tilman Barz, Sergio Lucia, Ernesto C. Martinez, Peter Neubauer, Mariano Nicolas Cruz-Bournazou (2022). <strong>Model predictive control guided with optimal experimental design for pulse-based parallel cultivation. </strong>13th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems, DYCOPS 2022 Busan, Replubic of Korea, 14-17 June 2022. IFAC-PapersOnLine, 55, Elsevier 2022.</p>",
+    "searchText": "Jong Woo Kim, Niels Krausch, Judit Aizpuru, Tilman Barz, Sergio Lucia, Ernesto C. Martinez, Peter Neubauer, Mariano Nicolas Cruz-Bournazou (2022). Model predictive control guided with optimal experimental design for pulse-based parallel cultivation. 13th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems, DYCOPS 2022 Busan, Replubic of Korea, 14-17 June 2022. IFAC-PapersOnLine, 55, Elsevier 2022.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-29",
+    "type": "Conferences",
+    "year": "2022",
+    "citation": "<p>Niels Krausch, Jong Woo Kim, Sergio Lucia, Sebastian Groß, Tilman Barz, Peter Neubauer, Mariano Nicolas Cruz-Bournazou (2022). <strong>Optimal operation of parallel mini-bioreactors in bioprocess development using multi-stage MPC.</strong> European Symposium on computer aided process engineering (ESCAPE 32). Computer aided chemical engineering, Volume 51, Pages 1069-1074 Elsevier 2022.</p>",
+    "searchText": "Niels Krausch, Jong Woo Kim, Sergio Lucia, Sebastian Groß, Tilman Barz, Peter Neubauer, Mariano Nicolas Cruz-Bournazou (2022). Optimal operation of parallel mini-bioreactors in bioprocess development using multi-stage MPC. European Symposium on computer aided process engineering (ESCAPE 32). Computer aided chemical engineering, Volume 51, Pages 1069-1074 Elsevier 2022.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-30",
+    "type": "Conferences",
+    "year": "2022",
+    "citation": "<p>Martin F. Luna, Mariano Nicolas Cruz-Bournazou, Ernesto C. Martinez (2022). <strong>Online Bayesian Re-design of Parallel Experiments based on Asynchronous Posterior Sampling.</strong> European Symposium on computer aided process engineering (ESCAPE 32). Computer aided chemical engineering, Volume 51, Pages 1111-1116, Elsevier 2022.</p>",
+    "searchText": "Martin F. Luna, Mariano Nicolas Cruz-Bournazou, Ernesto C. Martinez (2022). Online Bayesian Re-design of Parallel Experiments based on Asynchronous Posterior Sampling. European Symposium on computer aided process engineering (ESCAPE 32). Computer aided chemical engineering, Volume 51, Pages 1111-1116, Elsevier 2022.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-31",
+    "type": "Conferences",
+    "year": "2022",
+    "citation": "<p>Federico M. Mione, Alexis N. Silva, Martin F. Luna, M. Nicolas Cruz B., Ernesto C. Martinez (2022). <strong>Managing Experimental-Computational Workflows in Robotic Platforms using Directed Acyclic Graphs</strong>. Proceedings of the 14th International Symposium on Process Systems Engineering – PSE 2021 – June 19-23, 2022, Kyoto, Japan. 2022 Elsevier B.V. </p>",
+    "searchText": "Federico M. Mione, Alexis N. Silva, Martin F. Luna, M. Nicolas Cruz B., Ernesto C. Martinez (2022). Managing Experimental-Computational Workflows in Robotic Platforms using Directed Acyclic Graphs . Proceedings of the 14th International Symposium on Process Systems Engineering – PSE 2021 – June 19-23, 2022, Kyoto, Japan. 2022 Elsevier B.V.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-13",
+    "type": "Journal articles",
+    "year": "2021",
+    "citation": "<p>Hiep Xuan Huynh, Be Ut Lai, Nghia Duong-Trung, Hai Thanh Nguyen, Cang Thuong Phan (2021). <strong>Modeling Population Dynamics for Facebook Information Dissemination. Concurrency Computation Practice and Experience (CCPE).</strong> Wiley. SCIE Web of Science, <a href=\"https://doi.org/10.1002/cpe.6333\">https://doi.org/10.1002/cpe.6333</a>.</p>",
+    "searchText": "Hiep Xuan Huynh, Be Ut Lai, Nghia Duong-Trung, Hai Thanh Nguyen, Cang Thuong Phan (2021). Modeling Population Dynamics for Facebook Information Dissemination. Concurrency Computation Practice and Experience (CCPE). Wiley. SCIE Web of Science, https://doi.org/10.1002/cpe.6333 .",
+    "doi": "10.1002/cpe.6333",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-14",
+    "type": "Journal articles",
+    "year": "2021",
+    "citation": "<p>Ernesto Martínez, Jong Woo Kim, Tilman Barz, Mariano N. Cruz Bournazou (2021). <strong>Probabilistic Modeling for Optimization of Bioreactors using Reinforcement Learning with Active Inference</strong>. In <em>Computer Aided Chemical Engineering</em> (Vol. 50, pp. 419-424). Elsevier, <a href=\"https://doi.org/10.1016/B978-0-323-88506-5.50066-8\">https://doi.org/10.1016/B978-0-323-88506-5.50066-8</a>.</p>",
+    "searchText": "Ernesto Martínez, Jong Woo Kim, Tilman Barz, Mariano N. Cruz Bournazou (2021). Probabilistic Modeling for Optimization of Bioreactors using Reinforcement Learning with Active Inference . In Computer Aided Chemical Engineering (Vol. 50, pp. 419-424). Elsevier, https://doi.org/10.1016/B978-0-323-88506-5.50066-8 .",
+    "doi": "10.1016/B978-0-323-88506-5.50066-8",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-15",
+    "type": "Journal articles",
+    "year": "2021",
+    "citation": "<p>Niels Krausch, Jong Woo Kim, Sergio de Lucia, Sebastian Gross, Tilman Barz, Peter Neubauer, Mariano N. Cruz Bournazou (2021). <strong>Optimal operation of parallel mini-bioreactors in bioprocess development using multi-stage MPC.</strong> <em>bioRxiv</em>,  <a href=\"https://doi.org/10.1101/2021.12.17.472671\">https://doi.org/10.1101/2021.12.17.472671</a>.</p>",
+    "searchText": "Niels Krausch, Jong Woo Kim, Sergio de Lucia, Sebastian Gross, Tilman Barz, Peter Neubauer, Mariano N. Cruz Bournazou (2021). Optimal operation of parallel mini-bioreactors in bioprocess development using multi-stage MPC. bioRxiv , https://doi.org/10.1101/2021.12.17.472671 .",
+    "doi": "10.1101/2021.12.17.472671",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-16",
+    "type": "Journal articles",
+    "year": "2021",
+    "citation": "<p>ByungJun Park, Jong Woo Kim, Jong Min Lee (2021). <strong>Data-driven offset-free multilinear model predictive control using constrained differential dynamic programming.</strong> Journal of Process Control, 107, 1-16, <a href=\"https://doi.org/10.1016/j.jprocont.2021.09.010\">https://doi.org/10.1016/j.jprocont.2021.09.010</a>.</p>",
+    "searchText": "ByungJun Park, Jong Woo Kim, Jong Min Lee (2021). Data-driven offset-free multilinear model predictive control using constrained differential dynamic programming. Journal of Process Control, 107, 1-16, https://doi.org/10.1016/j.jprocont.2021.09.010 .",
+    "doi": "10.1016/j.jprocont.2021.09.010",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-17",
+    "type": "Journal articles",
+    "year": "2021",
+    "citation": "<p>Jong Woo Kim, Niels Krausch, Judit Aizpuru, Tilman Barz, Sergio Lucia, Ernesto C. Martínez, Peter Neubauer, Mariano Nicolas Cruz Bournazou (2021). <strong>Model predictive control guided with optimal experimental design for pulse-based parallel cultivation</strong>. arXiv preprint arXiv:2112.10548, <a href=\"https://doi.org/10.48550/arXiv.2112.10548\">https://doi.org/10.48550/arXiv.2112.10548</a>.</p>",
+    "searchText": "Jong Woo Kim, Niels Krausch, Judit Aizpuru, Tilman Barz, Sergio Lucia, Ernesto C. Martínez, Peter Neubauer, Mariano Nicolas Cruz Bournazou (2021). Model predictive control guided with optimal experimental design for pulse-based parallel cultivation . arXiv preprint arXiv:2112.10548, https://doi.org/10.48550/arXiv.2112.10548 .",
+    "doi": "10.48550/arXiv.2112.10548",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-18",
+    "type": "Journal articles",
+    "year": "2021",
+    "citation": "<p>Judit Aizpuru, Annina Kemmer, Jong Woo Kim, Stefan Born, Peter Neubauer, Mariano Nicolas Cruz Bournazou, Tilman Barz (2021). <strong>Fitting nonlinear models to continuous oxygen data with oscillatory signal variations via a loss based on Dynamic Time Warping</strong>. IFAC-PapersOnLine, Volume 55, Issue 7, <a href=\"https://doi.org/10.48550/arXiv.2112.13283\">https://doi.org/10.48550/arXiv.2112.13283</a>.</p>",
+    "searchText": "Judit Aizpuru, Annina Kemmer, Jong Woo Kim, Stefan Born, Peter Neubauer, Mariano Nicolas Cruz Bournazou, Tilman Barz (2021). Fitting nonlinear models to continuous oxygen data with oscillatory signal variations via a loss based on Dynamic Time Warping . IFAC-PapersOnLine, Volume 55, Issue 7, https://doi.org/10.48550/arXiv.2112.13283 .",
+    "doi": "10.48550/arXiv.2112.13283",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-19",
+    "type": "Journal articles",
+    "year": "2021",
+    "citation": "<p>Diego Rybski, Yunfei Li, Stefan Born, and Jürgen P. Kropp. (2021). <strong>Modeling Urban Morphology by Unifying Diffusion-Limited Aggregation and Stochastic Gravitation</strong>. Findings, June 2021, <a href=\"https://doi.org/10.32866/001c.22296\">https://doi.org/10.32866/001c.22296</a>.</p>",
+    "searchText": "Diego Rybski, Yunfei Li, Stefan Born, and Jürgen P. Kropp. (2021). Modeling Urban Morphology by Unifying Diffusion-Limited Aggregation and Stochastic Gravitation . Findings, June 2021, https://doi.org/10.32866/001c.22296 .",
+    "doi": "10.32866/001c.22296",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-20",
+    "type": "Journal articles",
+    "year": "2021",
+    "citation": "<p>Hiep Xuan Huynh, Linh Xuan Dang, Nghia Duong-Trung, Cang Thuong Phan (2021). <strong>Vietnamese Short Text Classification via Distributed Computation</strong>. International Journal of Advanced Computer Science and Applications (IJACSA) 12(6), <a href=\"https://dx.doi.org/10.14569/IJACSA.2021.0120703\">10.14569/IJACSA.2021.0120703</a>.</p>",
+    "searchText": "Hiep Xuan Huynh, Linh Xuan Dang, Nghia Duong-Trung, Cang Thuong Phan (2021). Vietnamese Short Text Classification via Distributed Computation . International Journal of Advanced Computer Science and Applications (IJACSA) 12(6), 10.14569/IJACSA.2021.0120703 .",
+    "doi": "10.14569/IJACSA.2021.0120703",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-21",
+    "type": "Journal articles",
+    "year": "2021",
+    "citation": "<p>Hiep Xuan Huynh, Nghia Duong-Trung, Tran Nam Quoc Nguyen, Bao Hoai Le, Tam Hung Le (2021). <strong>Maneuverable Autonomy of a Six-legged Walking Robot: Design and Implementation Make Through Deep Neural Networks and Hexapod Locomotion</strong>. International Journal of Advanced Computer Science and Applications (IJACSA) 12(6), <a href=\"http://dx.doi.org/10.14569/IJACSA.2021.0120697\">10.14569/IJACSA.2021.0120697</a>.</p>",
+    "searchText": "Hiep Xuan Huynh, Nghia Duong-Trung, Tran Nam Quoc Nguyen, Bao Hoai Le, Tam Hung Le (2021). Maneuverable Autonomy of a Six-legged Walking Robot: Design and Implementation Make Through Deep Neural Networks and Hexapod Locomotion . International Journal of Advanced Computer Science and Applications (IJACSA) 12(6), 10.14569/IJACSA.2021.0120697 .",
+    "doi": "10.14569/IJACSA.2021.0120697",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-32",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Stefan Born , Annina Kemmer, Peter Neubauer (2021). <strong>Modelling the enzymatic release of glucose from a polysaccharide by mechanistic models and machine learning</strong>. European Conference on Data Analysis DSSV-ECDA 2021, July 7 – 9, 2021. Conference volume not yet published.</p>",
+    "searchText": "Stefan Born , Annina Kemmer, Peter Neubauer (2021). Modelling the enzymatic release of glucose from a polysaccharide by mechanistic models and machine learning . European Conference on Data Analysis DSSV-ECDA 2021, July 7 – 9, 2021. Conference volume not yet published.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-33",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Kiran Madhusudhanan, Johannes Burchert, Lars Schmidt-Thieme, Nghia Duong-Trung, Stefan Born (2021). <strong>Yformer: U-Net Inspired Transformer. Architecture for Far Horizon Time Series Forecasting</strong>. Tenth International Conference on Learning Representations, ICLR 2022, April 25 – 29, 2022. Under review</p>",
+    "searchText": "Kiran Madhusudhanan, Johannes Burchert, Lars Schmidt-Thieme, Nghia Duong-Trung, Stefan Born (2021). Yformer: U-Net Inspired Transformer. Architecture for Far Horizon Time Series Forecasting . Tenth International Conference on Learning Representations, ICLR 2022, April 25 – 29, 2022. Under review",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-34",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>An C. Tran, Hung Thanh Nguyen, Van Long Nguyen Huu, Nghia Duong-Trung (2021). <strong>Pesticide Label Detection Using Bounding Prediction-based Deep Convolutional Networks.</strong> International Conference on Future Data and Security Engineering (FDSE 2021). Springer LNCS. November 24-26, 2021. Ho Chi Minh city, Vietnam.</p>",
+    "searchText": "An C. Tran, Hung Thanh Nguyen, Van Long Nguyen Huu, Nghia Duong-Trung (2021). Pesticide Label Detection Using Bounding Prediction-based Deep Convolutional Networks. International Conference on Future Data and Security Engineering (FDSE 2021). Springer LNCS. November 24-26, 2021. Ho Chi Minh city, Vietnam.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-35",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Nga Tang Thi Quynh, Ha Xuan Son, Trieu Hai Le, Hung Nguyen Duc Huy, Khanh Hong Vo, Huong Hoang Luong, Khoi Nguyen Huynh Tuan, Tuan Dao Anh, The Anh Nguyen, Nghia Duong-Trung (2021). <strong>Toward a Design of Blood Donation Management by Blockchain Technologies.</strong> The 21st International Conference on Computational Science and its Applications (ICCSA). Workshop on Privacy in the Cloud/Edge/IoT World (PCEIoT). Springer LNCS. September 13-16, 2021. Cagliari, Italy.</p>",
+    "searchText": "Nga Tang Thi Quynh, Ha Xuan Son, Trieu Hai Le, Hung Nguyen Duc Huy, Khanh Hong Vo, Huong Hoang Luong, Khoi Nguyen Huynh Tuan, Tuan Dao Anh, The Anh Nguyen, Nghia Duong-Trung (2021). Toward a Design of Blood Donation Management by Blockchain Technologies. The 21st International Conference on Computational Science and its Applications (ICCSA). Workshop on Privacy in the Cloud/Edge/IoT World (PCEIoT). Springer LNCS. September 13-16, 2021. Cagliari, Italy.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-36",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Nghia Duong-Trung, Dung Ngoc Le Ha, Hiep Xuan Huynh (2021). <strong>Classification-Segmentation Pipeline for MRI via Transfer Learning and Residual Networks.</strong> The 6th International Conference on Research in Intelligent Computing in Engineering (RICE 2021). Springer LNEE. June 3-4, 2021. Binh Duong, Vietnam.</p>",
+    "searchText": "Nghia Duong-Trung, Dung Ngoc Le Ha, Hiep Xuan Huynh (2021). Classification-Segmentation Pipeline for MRI via Transfer Learning and Residual Networks. The 6th International Conference on Research in Intelligent Computing in Engineering (RICE 2021). Springer LNEE. June 3-4, 2021. Binh Duong, Vietnam.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-37",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Xuan Son Ha, Trieu Hai Le, Tan Tai Phan, Hung Huy Duc Nguyen, Khanh Hong Vo, Nghia Duong-Trung (2021). <strong>Scrutinizing Trust and Transparency in Cash on Delivery Systems. </strong>The 13th International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage (SpaCCS 2020). Springer LNCS. December 18-20, 2020. Nanjing, China.</p>",
+    "searchText": "Xuan Son Ha, Trieu Hai Le, Tan Tai Phan, Hung Huy Duc Nguyen, Khanh Hong Vo, Nghia Duong-Trung (2021). Scrutinizing Trust and Transparency in Cash on Delivery Systems. The 13th International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage (SpaCCS 2020). Springer LNCS. December 18-20, 2020. Nanjing, China.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-38",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Xuan Son Ha, Trieu Le Hai, Nga Tang Thi Quynh, Hung Nguyen Duc Huy, Huong Hoang Luong, Nghia Duong-Trung (2021). <strong>Toward a Blockchain-based technology in dealing with emergencies in Patient-centered Healthcare Systems</strong>. In Proceedings of the 6th International Conference on Mobile, Secure and Programmable Networking (MSPN 2020). Springer LNCS. October 28-29, 2020, Paris, France.</p>",
+    "searchText": "Xuan Son Ha, Trieu Le Hai, Nga Tang Thi Quynh, Hung Nguyen Duc Huy, Huong Hoang Luong, Nghia Duong-Trung (2021). Toward a Blockchain-based technology in dealing with emergencies in Patient-centered Healthcare Systems . In Proceedings of the 6th International Conference on Mobile, Secure and Programmable Networking (MSPN 2020). Springer LNCS. October 28-29, 2020, Paris, France.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-39",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Stefan Maak, Mark Dörr (2021). <strong>LARAsuite &amp; Machine learning guided robotic high-throughput protein/enzyme screening</strong>. SiLA academic user conference, November 2021.</p>",
+    "searchText": "Stefan Maak, Mark Dörr (2021). LARAsuite & Machine learning guided robotic high-throughput protein/enzyme screening . SiLA academic user conference, November 2021.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-40",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Lukas Kaspersetz (2021). <strong>Integration of a robotic small scale bioreactor system as a prerequisite for a self-learning &amp; autonomous cultivation platform</strong>. BioProScale, March 2021, Berlin/virtual. </p>",
+    "searchText": "Lukas Kaspersetz (2021). Integration of a robotic small scale bioreactor system as a prerequisite for a self-learning & autonomous cultivation platform . BioProScale, March 2021, Berlin/virtual.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-41",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Lukas Kaspersetz (2021). <strong>BioXplorerFacility – What theH.E.L.?</strong> Interdisziplinäres Doktorandenseminar, Arbeitskreis Prozessanalytik, March 2021, virtual.</p>",
+    "searchText": "Lukas Kaspersetz (2021). BioXplorerFacility – What theH.E.L.? Interdisziplinäres Doktorandenseminar, Arbeitskreis Prozessanalytik, March 2021, virtual.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  },
+  {
+    "id": "publication-42",
+    "type": "Conferences",
+    "year": "2021",
+    "citation": "<p>Marie-Therese Schermeyer (2021). <strong>Schneller zu neuen Biopharmaka im Zukunftslabor.</strong> Ideenkonferenz 2021, April 2021, Berlin/virtual.</p>",
+    "searchText": "Marie-Therese Schermeyer (2021). Schneller zu neuen Biopharmaka im Zukunftslabor. Ideenkonferenz 2021, April 2021, Berlin/virtual.",
+    "doi": "",
+    "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/publications/",
+    "verifiedAt": "2026-09-11"
+  }
+]

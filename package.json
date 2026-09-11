@@ -1,0 +1,17 @@
+{
+  "name": "kiwi-biolab-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "eleventy --serve --port=8080",
+    "build": "eleventy",
+    "validate": "node scripts/validate.mjs",
+    "check": "npm run build && npm run validate"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "3.1.6",
+    "@fontsource/inter": "^5.2.0",
+    "cheerio": "^1.1.0"
+  }
+}

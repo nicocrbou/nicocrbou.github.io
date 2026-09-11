@@ -1,0 +1,18 @@
+---
+layout: page.njk
+title: Publications
+intro: The methods, experiments and ideas behind our research.
+permalink: /publications/
+---
+{% from "icons.njk" import arrow, external %}
+<div class="publication-intro"><p>The original project bibliography, supplemented by the linked HTBD group library.</p><a class="text-link" href="https://www.zotero.org/groups/2753756/htbd/library">HTBD bibliography {{ external() }}</a></div>
+<div data-filter-list>
+  <form class="filter-bar publications-filters" role="search" aria-label="Filter publications" data-filters hidden>
+    <label>Search<input type="search" name="q" placeholder="Title, author or DOI" autocomplete="off"></label>
+    <label>Year<select name="year"><option value="">All years</option>{% for year in publications | years %}<option value="{{ year }}">{{ year }}</option>{% endfor %}</select></label>
+    <label>Type<select name="type"><option value="">All types</option>{% for type in publications | types %}<option value="{{ type }}">{{ type }}</option>{% endfor %}</select></label>
+    <button type="reset" class="reset-button">Clear filters</button><p class="result-count" aria-live="polite" aria-atomic="true" data-result-count></p>
+  </form>
+  {% for type in publications | types %}<section class="publication-group" data-filter-group><h2>{{ type }}</h2><ol class="publication-list">{% for item in publications %}{% if item.type == type %}<li id="{{ item.id }}" data-filter-item data-year="{{ item.year }}" data-type="{{ item.type }}"><span class="publication-year">{{ item.year }}</span><div class="prose citation">{{ item.citation | safe }}</div></li>{% endif %}{% endfor %}</ol></section>{% endfor %}
+  <div class="empty-state" data-empty-state hidden><h2>No matching publications</h2><p>Try another author, topic or year.</p><button type="button" class="text-link" data-reset>Clear filters {{ arrow() }}</button></div>
+</div>

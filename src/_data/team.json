@@ -1,0 +1,185 @@
+{
+  "groups": [
+    {
+      "title": "Coordinators",
+      "id": "Coordinators",
+      "members": [
+        {
+          "name": "Prof. Dr. Peter Neubauer",
+          "role": "Coordinator",
+          "affiliation": "Head of Bioprocess Engineering, TU Berlin",
+          "image": "/assets/images/2889dfd7-Peter_Neubauer-e1609841484243.jpg",
+          "link": "https://www.tu.berlin/bioprocess/"
+        },
+        {
+          "name": "Prof. Dr. Lars Schmidt-Thieme",
+          "role": "Co-coordinator",
+          "affiliation": "Head of Information Systems and Machine Learning Lab, University of Hildesheim",
+          "image": "/assets/images/72b28bc8-Prof-Dr-Lars-Schmidt-Thieme-e1615539287354.jpg",
+          "link": "https://www.ismll.uni-hildesheim.de/index_en.html"
+        },
+        {
+          "name": "Prof. Dr. Uwe Bornscheuer",
+          "role": "Co-coordinator",
+          "affiliation": "Head of Dept. of Biotechnology & Enzyme Catalysis, University of Greifswald",
+          "image": "/assets/images/ce54e189-Bornscheuer_Bild-e1611603341509.png",
+          "link": "https://biochemie.uni-greifswald.de/forschung/forschung-in-den-arbeitskreisen/ordner-aks-lehrstuehle/biotechnology-enzyme-catalysis/"
+        }
+      ]
+    },
+    {
+      "title": "Scientists",
+      "id": "scientists",
+      "members": [
+        {
+          "name": "Dr. M. Nicolas Cruz-Bournazou",
+          "role": "Project Leader and TF2 Leader",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/7bec4b70-Nicolas_Cruz-e1610021178423.png",
+          "link": ""
+        },
+        {
+          "name": "Dr. Maxim Borisyak",
+          "role": "TF1 Leader",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/e83252d3-Maxim_Borisyak.jpg",
+          "link": ""
+        },
+        {
+          "name": "Annina Kemmer",
+          "role": "TF3 Leader",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/2f3bda81-Annina_Kemmer-scaled.jpg",
+          "link": ""
+        },
+        {
+          "name": "Dr. Marie-Therese Schermeyer",
+          "role": "TF4 Leader",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/f56b6fc5-Therese_color-e1608716187108.jpg",
+          "link": ""
+        },
+        {
+          "name": "Marta González Gómez",
+          "role": "Project Manager",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/a3d4f867-gonzalez.jpg",
+          "link": ""
+        },
+        {
+          "name": "Simon Seidel",
+          "role": "TF1 and TF4",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/01e6fd12-Simon_Seidel-scaled.jpg",
+          "link": ""
+        },
+        {
+          "name": "Dr. Stefan Born",
+          "role": "TF1",
+          "affiliation": "Orientierungsstudium MINTgrün, TU Berlin",
+          "image": "/assets/images/34f72b31-born_portrait.jpg",
+          "link": ""
+        },
+        {
+          "name": "Dr. Tilman Barz",
+          "role": "TF2",
+          "affiliation": "Center for Energy, AIT Austrian Institute of Technology GmbH",
+          "image": "/assets/images/ab1eb329-Tilman_Barz.png",
+          "link": ""
+        },
+        {
+          "name": "Dr. Jong Woo Kim",
+          "role": "TF2",
+          "affiliation": "Institute of Chemical Processes, Seoul National University",
+          "image": "/assets/images/01df0a97-picture_2020.jpg",
+          "link": ""
+        },
+        {
+          "name": "Niels Krausch",
+          "role": "TF2 and TF4",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/92cc3bce-niels.jpg",
+          "link": ""
+        },
+        {
+          "name": "Dr. Kexin Bi",
+          "role": "TF3",
+          "affiliation": "Department of Chemical Engineering, Tsinghua University, China",
+          "image": "/assets/images/19b55b74-kexin_bi-scaled.jpg",
+          "link": ""
+        },
+        {
+          "name": "Dr. Mark Dörr",
+          "role": "TF4",
+          "affiliation": "Institute of Biochemistry, University of Greifswald",
+          "image": "/assets/images/8739639b-mark_doerr_portrait_sm.jpg",
+          "link": ""
+        },
+        {
+          "name": "Prof. Dr. Ernesto Martínez",
+          "role": "TF2, TF4",
+          "affiliation": "Institute of Development and Design, INGAR/Conicet, Argentina",
+          "image": "/assets/images/9fc1e427-ErnestoMartinez-e1613638594934.png",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "PhD Students",
+      "id": "PhD Students",
+      "members": [
+        {
+          "name": "Randolf Scholz",
+          "role": "TF1",
+          "affiliation": "Institute of Computer Science, University of Hildesheim",
+          "image": "/assets/images/666cd896-Scholz-1-scaled.jpg",
+          "link": ""
+        },
+        {
+          "name": "Judit Aizpuru",
+          "role": "TF2",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/8df06b41-judit_aizpuru-scaled.jpg",
+          "link": ""
+        },
+        {
+          "name": "Christoph Lange",
+          "role": "TF3",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/291780a9-christoph_portrait-e1611913229304.jpg",
+          "link": ""
+        },
+        {
+          "name": "Lucas Kaspersetz",
+          "role": "TF4",
+          "affiliation": "Institute of Biotechnology, TU Berlin",
+          "image": "/assets/images/5d69207b-Lucas_Kaspersetz-scaled-e1610021211760.jpg",
+          "link": ""
+        },
+        {
+          "name": "Stefan Maak",
+          "role": "TF4",
+          "affiliation": "Institute of Biochemistry, University of Greifswald",
+          "image": "/assets/images/e07afbbc-kiwi_logo_www.png",
+          "link": ""
+        },
+        {
+          "name": "Federico Mione",
+          "role": "TF2, TF4",
+          "affiliation": "Institute of Development and Design, INGAR/Conicet, Argentina",
+          "image": "/assets/images/4de3dbc9-Federico_Mione.jpg",
+          "link": ""
+        }
+      ]
+    }
+  ],
+  "former": [
+    "Nico Fischer, TU Berlin, Germany",
+    "Dr. Qin Fan, UniSysCat, Germany",
+    "Dr. Nghia Duong-Trung, German Research Center for Artificial Intelligence (DFKI), Germany",
+    "Dr. Katharina Paulick, MINAUTICS GmbH, Germany",
+    "Dr. Sebastian Groß, wega Informatik AG, Switzerland"
+  ],
+  "source": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/team/",
+  "verifiedAt": "2026-09-11"
+}

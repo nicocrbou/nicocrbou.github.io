@@ -1,0 +1,19 @@
+---
+layout: page.njk
+title: Team
+intro: Biotechnology, engineering and computer science. Different perspectives, shared questions.
+permalink: /team/
+---
+{% from "icons.njk" import external %}
+<div class="with-sidebar">
+  <nav class="section-nav" aria-label="Team sections"><span>On this page</span><a href="#leadership">Lab leadership</a><a href="#project-team">Project team</a>{% for group in team.groups %}<a href="#{{ group.id | urlencode }}">{{ group.title }}</a>{% endfor %}<a href="#Former%20members">Former members</a></nav>
+  <div class="page-body">
+    <section id="leadership" class="content-section"><h2>Lab leadership</h2><div class="leadership-list">
+      <article class="leader"><img src="/assets/images/2889dfd7-Peter_Neubauer-e1609841484243.jpg" alt="Peter Neubauer" width="300" height="360" loading="lazy"><div><h3>Prof. Dr. Peter Neubauer</h3><p class="role">Co-founder and director</p><p>Head of the Chair of Bioprocess Engineering at TU Berlin. His work connects biotechnology, laboratory automation and the translation of bioprocesses into practical applications.</p><a class="text-link" href="https://www.tu.berlin/en/news/detail/ein-labor-ohne-menschen">TU Berlin profile · April 2026 {{ external() }}</a></div></article>
+      <article class="leader"><img src="/assets/images/7bec4b70-Nicolas_Cruz-e1610021178423.png" alt="Mariano Nicolas Cruz Bournazou" width="300" height="360" loading="lazy"><div><h3>Dr. Mariano Nicolas Cruz Bournazou</h3><p class="role">Group lead</p><p>The institutional group page identifies Dr. Cruz Bournazou as KIWI Biolab’s group lead. His research focuses on bioprocess digitalization, model-based methods and autonomous biolabs.</p><a class="text-link" href="{{ site.tuSource }}">Institutional group profile {{ external() }}</a></div></article>
+    </div></section>
+    <section id="project-team" class="content-section"><h2>The original project team</h2><p class="archive-note">This roster records the original KIWI-biolab Future Lab team, as shown in the archived website. The roles and affiliations below are historical; they do not establish current membership.</p></section>
+    {% for group in team.groups %}<section id="{{ group.id }}" class="content-section team-group"><h2>{{ group.title }}</h2><div class="people-grid">{% for member in group.members %}<article class="person">{% if member.image %}<img src="{% if 'kiwi_logo' in member.image %}{{ site.logo }}{% else %}{{ member.image }}{% endif %}"{% if 'kiwi_logo' in member.image %} class="portrait-logo"{% endif %} alt="{% if 'kiwi_logo' in member.image %}KIWI-biolab logo{% else %}{{ member.name }}{% endif %}" width="300" height="330" loading="lazy">{% endif %}<h3>{{ member.name }}</h3><p class="role">{{ member.role }}</p><p class="affiliation">{{ member.affiliation }}</p>{% if member.link %}<a class="text-link" href="{{ member.link }}">Institution {{ external() }}</a>{% endif %}</article>{% endfor %}</div></section>{% endfor %}
+    <section id="Former members" class="content-section"><h2>Former members</h2><p class="archive-note">Members explicitly listed as former members in the original project website.</p><ul class="plain-list">{% for member in team.former %}<li>{{ member }}</li>{% endfor %}</ul></section>
+  </div>
+</div>

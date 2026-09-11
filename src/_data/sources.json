@@ -1,0 +1,55 @@
+{
+  "verifiedAt": "2026-09-11",
+  "references": [
+    {
+      "title": "Original KIWI-biolab website",
+      "url": "https://web.archive.org/web/20260114173916/https://kiwi-biolab.de/",
+      "use": "Original pages, navigation, project history, people, publications and images. Child pages resolve to captures from December 2025 and January 2026."
+    },
+    {
+      "title": "KIWI Biolab — TU Berlin (English)",
+      "url": "https://www.tu.berlin/en/bioprocess/institution-associates/department/kiwi-biolab",
+      "use": "Mission, facilities, group lead and institutional links."
+    },
+    {
+      "title": "KIWI Biolab — TU Berlin (German)",
+      "url": "https://www.tu.berlin/bioprocess/einrichtungen-associates/arbeitsgruppen/kiwi-biolab",
+      "use": "Additional project portfolio, facility links, knowledge map and collaboration information."
+    },
+    {
+      "title": "A Lab Without Any People — TU Berlin",
+      "url": "https://www.tu.berlin/en/news/detail/ein-labor-ohne-menschen",
+      "date": "2026-04-16",
+      "use": "Recent news, autonomous-lab description, director role and laboratory photographs."
+    },
+    {
+      "title": "BioBlock — TU Berlin",
+      "url": "https://www.tu.berlin/en/about/profile/press-releases-news/creative-experimental-space-for-knowledge-and-data-exchange-in-biotechnology",
+      "date": "2024-06-25",
+      "use": "Project announcement and 2025–2028 funding period."
+    },
+    {
+      "title": "HTBD public bibliography",
+      "url": "https://www.zotero.org/groups/2753756/htbd/library",
+      "use": "One additional 2023 journal article; the linked library has no records dated after 2023."
+    },
+    {
+      "title": "Bioprocess Engineering — TU Berlin",
+      "url": "https://www.tu.berlin/en/bioprocess/",
+      "use": "Current department office contact details."
+    }
+  ],
+  "decisions": [
+    "Project listings mix current and historical work. English and German TU pages disagree on AMADEUS, BioProBot and Mushlabs; no current/completed status is asserted for these projects.",
+    "FIERCE has an explicit May 2023–April 2026 period on its own project page, despite appearing under running projects in the group overview. Its dates are shown without claiming an extension.",
+    "The original KIWI Future Lab is presented as project history rather than an ongoing four-year funding award.",
+    "Nicolas Cruz Bournazou is described as group lead on the institutional group page; Peter Neubauer is described as co-founder and director in the dated April 2026 institutional article. These distinct source roles are retained.",
+    "The archive roster is historical and does not establish present employment. Only people explicitly labeled former members in the original site are presented as former members.",
+    "Archived dates without a year remain undated. Expired meeting and registration links are removed.",
+    "The linked bibliography has no post-2023 publications; no newer publication dates were invented.",
+    "Source photography is used unchanged; layout, size and crops are controlled with CSS. Missing archive images are omitted without fabricating replacements.",
+    "The site identity uses the exact green KIWI-biolab logo supplied by the site owner on 11 September 2026.",
+    "89 source image files were recovered. Eleven assets returned 404 from both the archive and original host: two microscopy figures, two network logos and seven older seminar portraits. Available alternate sizes were checked; the corresponding text remains available.",
+    "Two publication years were corrected using the linked institutional bibliography: DOI 10.1002/bit.28236 to 2022 and DOI 10.1016/j.compchemeng.2023.108158 to 2023. The original citations are retained in the content data."
+  ]
+}

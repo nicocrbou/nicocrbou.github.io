@@ -1,0 +1,18 @@
+{% from "icons.njk" import arrow, external %}
+<div class="feed{% if title == 'KIWI Talks' %} talk-feed{% endif %}" data-filter-list>
+  <form class="filter-bar" role="search" aria-label="Filter {{ title }}" data-filters hidden>
+    <label>Search<input name="q" type="search" placeholder="{% if title == 'KIWI Talks' %}Topic or speaker{% else %}Search {{ title | lower }}{% endif %}" autocomplete="off"></label>
+    <label>Year<select name="year"><option value="">All years</option>{% for year in entries | years %}<option value="{{ year }}">{{ year }}</option>{% endfor %}</select></label>
+    <button type="reset" class="reset-button">Clear filters</button>
+    <p class="result-count" aria-live="polite" aria-atomic="true" data-result-count></p>
+  </form>
+  <div class="feed-items">{% for item in entries %}
+    <article class="feed-item{% if not item.image %} without-image{% endif %}" id="{{ item.id }}" data-filter-item data-year="{{ item.year }}">
+      {% if item.originalAnchor %}<span id="{{ item.originalAnchor }}" class="anchor-target"></span>{% endif %}
+      {% if item.image %}<figure class="feed-image"><img src="{{ item.image }}" alt="{{ item.imageAlt or item.title }}" loading="lazy" decoding="async" width="440" height="300">{% if item.imageCredit %}<figcaption>© {{ item.imageCredit }}</figcaption>{% endif %}</figure>{% endif %}
+      <div class="feed-copy"><p class="entry-date">{{ item.dateLabel }}</p><h2>{{ item.title }}</h2>{% if item.summary %}<p class="entry-summary">{{ item.summary }}</p>{% endif %}
+      {% if item.body %}<details><summary>Read more<span class="sr-only"> about {{ item.title }}</span><span class="plus" aria-hidden="true"></span></summary><div class="prose expanded-content">{{ item.body | safe }}<p class="entry-source"><a href="{{ item.source }}">{% if item.historical %}Original project archive{% else %}TU Berlin source{% endif %} {{ external() }}</a></p></div></details>{% endif %}</div>
+    </article>
+  {% endfor %}</div>
+  <div class="empty-state" data-empty-state hidden><h2>No matching entries</h2><p>Try another search or clear the filters to see everything.</p><button type="button" class="text-link" data-reset>Clear filters {{ arrow() }}</button></div>
+</div>

@@ -1,0 +1,7 @@
+---
+layout: page.njk
+title: Page not found
+intro: This page may have moved, or the address may be incomplete.
+permalink: /404.html
+---
+<div class="prose narrow not-found"><p>Browse our research, explore the lab or return to the homepage.</p><a class="text-link" href="/">Return home</a><ul>{% for item in site.navigation %}{% if item.url != '/' %}<li><a href="{{ item.url }}">{{ item.label }}</a></li>{% endif %}{% endfor %}</ul></div>

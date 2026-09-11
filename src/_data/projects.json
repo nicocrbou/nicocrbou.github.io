@@ -1,0 +1,77 @@
+[
+  {
+    "name": "BioBlock",
+    "description": "Secure knowledge exchange and collaboration in biotechnology using verifiable, reusable FAIR data.",
+    "period": "January 2025–December 2028",
+    "url": "https://www.tu.berlin/en/about/profile/press-releases-news/creative-experimental-space-for-knowledge-and-data-exchange-in-biotechnology"
+  },
+  {
+    "name": "FIERCE",
+    "description": "A FAIR integrated experimental research and computational environment for digital discovery in biotechnology.",
+    "period": "May 2023–April 2026",
+    "url": "https://www.tu.berlin/bioprocess/forschung/kiwi-biolab/fierce"
+  },
+  {
+    "name": "MESSINA",
+    "description": "Model-based scale-down experiments for an adaptable high-throughput screening framework.",
+    "partner": "WACKER Biotech",
+    "url": "https://www.tu.berlin/bioprocess/forschung/kiwi-biolab/messina"
+  },
+  {
+    "name": "SIT_PLC",
+    "description": "An integrated IT infrastructure connecting data across the bioprocess product life cycle.",
+    "partner": "Siemens · BioNukleo",
+    "url": "https://www.tu.berlin/bioprocess/forschung/kiwi-biolab/sit-plc"
+  },
+  {
+    "name": "KIWI-biolab Future Lab",
+    "description": "The original interdisciplinary project in AI-assisted bioprocess development. Explore its four task forces below.",
+    "partner": "TU Berlin · Universität Hildesheim · Universität Greifswald",
+    "url": "/research/#task-forces"
+  },
+  {
+    "name": "AMADEUS",
+    "description": "Robust, adaptive model-based experimental design for high-throughput bioprocess development.",
+    "partner": "Boehringer Ingelheim Vienna",
+    "url": "https://www.tu.berlin/bioprocess/einrichtungen/arbeitsgruppen/kiwi-biolab/amadeus"
+  },
+  {
+    "name": "BioProBot",
+    "description": "A platform for automated robotic optimization of bioprocesses.",
+    "partner": "DataHow · labforward",
+    "url": "https://www.tu.berlin/bioprocess/einrichtungen/arbeitsgruppen/kiwi-biolab/bioprobot"
+  },
+  {
+    "name": "Mushlabs",
+    "description": "A bioprocess research collaboration with Mushlabs.",
+    "partner": "Mushlabs",
+    "url": "https://www.tu.berlin/bioprocess/einrichtungen/arbeitsgruppen/kiwi-biolab/mushlabs"
+  },
+  {
+    "name": "LEANPROT",
+    "description": "A completed project in the group’s bioprocess development portfolio.",
+    "url": "https://www.tu.berlin/bioprocess/einrichtungen/arbeitsgruppen/kiwi-biolab/leanprot"
+  },
+  {
+    "name": "Bio-RAPID",
+    "description": "A completed project in the group’s bioprocess development portfolio.",
+    "url": "https://www.tu.berlin/bioprocess/einrichtungen/arbeitsgruppen/kiwi-biolab/biorappid"
+  },
+  {
+    "name": "ANGUS",
+    "description": "Development of a high-throughput at-line glucose sensor.",
+    "partner": "C-Cis Sensors",
+    "url": "https://www.tu.berlin/en/bioprocess/research/high-throughput-bioprocess-development/angus"
+  },
+  {
+    "name": "DEEPWEB",
+    "description": "A miniature multi-bioreactor system to accelerate bioprocess development.",
+    "url": "https://www.tu.berlin/en/bioprocess/research/high-throughput-bioprocess-development/deepwep"
+  },
+  {
+    "name": "VLB: High Gravity Beer",
+    "description": "Development and characterization of a fed-batch fermentation process for high-gravity brewing.",
+    "partner": "VLB Berlin",
+    "url": "https://www.tu.berlin/en/bioprocess/research/high-throughput-bioprocess-development/vlb-highgravitybeer"
+  }
+]

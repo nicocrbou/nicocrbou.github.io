@@ -1,0 +1,12 @@
+---
+layout: page.njk
+title: Partners
+intro: An international exchange of knowledge, methods and ideas.
+permalink: /partners/
+---
+{% from "icons.njk" import external %}
+<div class="with-sidebar"><nav class="section-nav" aria-label="Partner sections"><span>On this page</span><a href="#collaboration">Collaboration</a><a href="#project-partners">Project partners</a><a href="#networks">Networks</a></nav><div class="page-body">
+<section id="collaboration" class="prose content-section"><h2>Research across boundaries</h2><p>The KIWI Biolab brings experimental and computational disciplines together. Collaborations connect laboratory automation, bioprocess engineering, model development and industrial applications.</p><p>Explore our <a href="/research/#projects">project portfolio</a> for institutional collaborations, or <a href="/contact/">get in touch</a> to discuss a research question.</p></section>
+<section id="project-partners" class="content-section"><h2>Original project partners</h2><p class="archive-note">The following people and affiliations are preserved from the KIWI-biolab Future Lab archive.</p><div class="partners-list prose">{{ partners.body | safe }}</div></section>
+<section id="networks" class="content-section"><h2>Networks</h2><div class="facility-list"><a href="https://sila-standard.com/"><div><h3>SiLA</h3><p>Standards for connected laboratory instruments and software.</p></div>{{ external() }}</a><a href="https://bio-pat.org/"><div><h3>Bio-PAT</h3><p>A network for process analytical technology in biotechnology.</p></div>{{ external() }}</a></div></section>
+</div></div>

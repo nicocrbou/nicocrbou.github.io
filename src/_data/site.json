@@ -1,0 +1,78 @@
+{
+  "name": "KIWI-biolab",
+  "url": "https://kiwi-biolab.org",
+  "description": "Laboratory automation, process models and machine learning for intelligent bioprocess development at TU Berlin.",
+  "verifiedAt": "2026-09-11",
+  "year": 2026,
+  "email": "office[at]bioprocess.tu-berlin.de",
+  "researchEmail": "peter.neubauer[at]tu-berlin.de",
+  "phone": "+49 30 314 72573",
+  "address": "Ackerstraße 76, ACK 24, 13355 Berlin, Germany",
+  "institution": "Chair of Bioprocess Engineering · Technische Universität Berlin",
+  "tuSource": "https://www.tu.berlin/en/bioprocess/institution-associates/department/kiwi-biolab",
+  "linkedin": "https://www.linkedin.com/company/kiwi-biolab/",
+  "logo": "/assets/images/kiwi-biolab-logo.png",
+  "hero": "/assets/images/29af59bb-csm_TU_KIWI-biolab_Print_02_38c9b897c0.jpg",
+  "labImage": "/assets/images/b65fd5bb-csm_TU_KIWI-biolab_Print_29_ae9f18904f.jpg",
+  "teamImage": "/assets/images/e8ebd910-csm_TU_Berlin_FG_Bioverfahrenstechnik_Gruppenfoto-2345_c9705346c6.jpg",
+  "navigation": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "Research",
+      "url": "/research/"
+    },
+    {
+      "label": "Team",
+      "url": "/team/"
+    },
+    {
+      "label": "Partners",
+      "url": "/partners/"
+    },
+    {
+      "label": "Events",
+      "url": "/events/"
+    },
+    {
+      "label": "News",
+      "url": "/news/"
+    },
+    {
+      "label": "KIWI Talks",
+      "url": "/talks/"
+    },
+    {
+      "label": "Publications",
+      "url": "/publications/"
+    },
+    {
+      "label": "Contact",
+      "url": "/contact/"
+    }
+  ],
+  "institutions": [
+    {
+      "name": "TU Berlin",
+      "image": "/assets/images/185b182d-logoTUB.png",
+      "url": "https://www.tu.berlin/en/"
+    },
+    {
+      "name": "Universität Greifswald",
+      "image": "/assets/images/7ca77215-logoGREIFSWALD-300x88.png",
+      "url": "https://www.uni-greifswald.de/en/"
+    },
+    {
+      "name": "Universität Hildesheim",
+      "image": "/assets/images/ef3dc627-logoHildesheim-150x150.png",
+      "url": "https://www.uni-hildesheim.de/en/"
+    },
+    {
+      "name": "BMBF · original funding",
+      "image": "/assets/images/9259544e-logoBMBF-e1612347149653.png",
+      "url": "https://www.bmbf.de/"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+---
+layout: base.njk
+---
+<div class="shell">
+  <header class="page-heading"><h1>{{ title }}</h1>{% if intro %}<p>{{ intro }}</p>{% endif %}</header>
+  {{ content | safe }}
+</div>
