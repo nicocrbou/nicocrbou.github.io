@@ -25,9 +25,11 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run check
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
       - name: Upload website
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
@@ -36,6 +38,7 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     permissions:
+      contents: read
       pages: write
       id-token: write
     environment:
